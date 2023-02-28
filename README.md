@@ -1,0 +1,1 @@
+This is my undergraduate graduation project, which focuses on the construction of knowledge graph in the financial field and the KGC task of this Chinese knowledge graph.
